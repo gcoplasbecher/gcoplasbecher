@@ -47,7 +47,7 @@ I'm a **Full-Stack Developer** specialized in building robust web applications w
 
 ## 🎯 Currently Focused On
 
-- **Building ERP systems** with Laravel
+- **Building ERP & CRM systems** with Laravel
 - **Modern frontend development** with Vue.js/React/Livewire
 - **API design and architecture**
 - **Database optimization** and performance
