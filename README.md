@@ -35,16 +35,6 @@ I'm a **Full-Stack Developer** specialized in building robust web applications w
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcoplasbecher&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoplasbecher&layout=compact&theme=radical)
-
-</div>
-
 ## 🎯 Currently Focused On
 
 - **Building ERP & CRM systems** with Laravel
